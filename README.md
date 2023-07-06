@@ -33,7 +33,7 @@
 
     Edit `src/pages/index.js` to see your site update in real-time!
 
-## How to run
+## 🚀 How to run
 
 Clone this repository and Navigate into your directory. Run
 
@@ -45,9 +45,9 @@ Clone this repository and Navigate into your directory. Run
 
     Your site is now running at http://localhost:8000!
 
-## How to Deploy
+## 🚀 How to Deploy
 
-***Step 1: Create a Production Build***
+****Step 1: Create a Production Build****
 
 
 
@@ -137,11 +137,11 @@ Once the upload is complete, ensure that the subdomain folder contains the “in
 Congratulations! Your Gatsby.js app is now deployed on cPanel shared hosting. To access it, simply open your web browser and visit your subdomain URL (e.g., gatsby.yourdomain.com). You should see your Gatsby.js app running smoothly.
 
 
-## Resources
+## 🚀 Resources
 
 to learn more <a href="https://bitbyhost.com/deploy-a-gatsbyjs-app-on-cpanel/" target="_blank">Deploy a Gatsbyjs App on cPanel Step-by-Step Guide</a>
 
-## Credits
+## 🚀 Credits
 
 https://bitbyhost.com/
 &
