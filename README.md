@@ -69,6 +69,8 @@ go to your public folder. Select all of your file and compress them into a zip f
 
 ***Step 2: Prepare Your cPanel Account***
 
+
+
 To deploy your Gatsby.js app on cPanel, you need to perform the following preparations:
 
 Access your cPanel account.
@@ -93,6 +95,8 @@ Click the “Submit” button.
 
 
 ***Step 3: Upload Your React.js App to cPanel***
+
+
 
 Now, let’s upload your React.js app to cPanel
 
@@ -127,6 +131,8 @@ Now you’ll see extracted folder file here.
 Once the upload is complete, ensure that the subdomain folder contains the “index.html” file and other assets.
 
 ***Step 4: Access Your Deployed Gatsby.js App***
+
+
 
 Congratulations! Your Gatsby.js app is now deployed on cPanel shared hosting. To access it, simply open your web browser and visit your subdomain URL (e.g., gatsby.yourdomain.com). You should see your Gatsby.js app running smoothly.
 
