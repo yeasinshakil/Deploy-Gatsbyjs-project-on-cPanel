@@ -137,9 +137,16 @@ Once the upload is complete, ensure that the subdomain folder contains the “in
 Congratulations! Your Gatsby.js app is now deployed on cPanel shared hosting. To access it, simply open your web browser and visit your subdomain URL (e.g., gatsby.yourdomain.com). You should see your Gatsby.js app running smoothly.
 
 
+to learn more <a href="https://bitbyhost.com/deploy-a-gatsbyjs-app-on-cpanel/" target="_blank">Deploy a Gatsbyjs App on cPanel Step-by-Step Guide</a>
+
+
 ## 🚀 Resources
 
-to learn more <a href="https://bitbyhost.com/deploy-a-gatsbyjs-app-on-cpanel/" target="_blank">Deploy a Gatsbyjs App on cPanel Step-by-Step Guide</a>
+Some usefull resorces: 
+
+<a href="https://bitbyhost.com/next-js-deployment-on-cpanel-shared-hosting/" target="_blank">Next js Deployment on cPanel Shared Hosting: Your Ultimate cPanel Guide</a>
+<a href="https://bitbyhost.com/best-wordpress-hosting/" target="_blank">How to Choose the Best WordPress Hosting for Your Agency’s Needs</a>
+<a href="https://bitbyhost.com/deploy-a-react-app-on-cpanel/" target="_blank">Deploy a React App on cPanel: Overcoming Limitations of Shared Hosting(Step-by-Step Guide)</a>
 
 ## 🚀 Credits
 
