@@ -94,11 +94,11 @@ Click the “Submit” button.
 <img alt="Gatsby" src="https://bitbyhost.com/wp-content/uploads/2023/06/Screenshot-71-768x432.png" />
 
 
-***Step 3: Upload Your React.js App to cPanel***
+***Step 3: Upload Your Gatsby.js App to cPanel***
 
 
 
-Now, let’s upload your React.js app to cPanel
+Now, let’s upload your Gatsby.js app to cPanel
 
 After submit the subdomain name you will see your newly created subdomain in domain list.
 
@@ -144,9 +144,9 @@ to learn more <a href="https://bitbyhost.com/deploy-a-gatsbyjs-app-on-cpanel/" t
 
 Some usefull resorces: 
 
-<a href="https://bitbyhost.com/next-js-deployment-on-cpanel-shared-hosting/" target="_blank">Next js Deployment on cPanel Shared Hosting: Your Ultimate cPanel Guide</a>
-<a href="https://bitbyhost.com/best-wordpress-hosting/" target="_blank">How to Choose the Best WordPress Hosting for Your Agency’s Needs</a>
-<a href="https://bitbyhost.com/deploy-a-react-app-on-cpanel/" target="_blank">Deploy a React App on cPanel: Overcoming Limitations of Shared Hosting(Step-by-Step Guide)</a>
+<a href="https://bitbyhost.com/next-js-deployment-on-cpanel-shared-hosting/" target="_blank">Next js Deployment on cPanel Shared Hosting: Your Ultimate cPanel Guide</a><br/>
+<a href="https://bitbyhost.com/best-wordpress-hosting/" target="_blank">How to Choose the Best WordPress Hosting for Your Agency’s Needs</a><br/>
+<a href="https://bitbyhost.com/deploy-a-react-app-on-cpanel/" target="_blank">Deploy a React App on cPanel: Overcoming Limitations of Shared Hosting(Step-by-Step Guide)</a><br/>
 
 ## 🚀 Credits
 
